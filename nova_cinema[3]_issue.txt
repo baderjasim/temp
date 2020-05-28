@@ -13,14 +13,3 @@
 2020/05/28 01:57:10 [xTeVe] [ERROR] Bad Gateway (This error message comes from the provider) - EC: 4004
 2020/05/28 01:57:10 [xTeVe] Streaming Status:      Playlist: M3U (PM) - Tuner: 0 / 1
 2020/05/28 01:57:11 [xTeVe] [ERROR] Bad Gateway () - EC: 0
-2020/05/28 04:09:48 [xTeVe] Buffer:                true [xteve]
-2020/05/28 04:09:48 [xTeVe] Buffer Size:           1024 KB
-2020/05/28 04:09:48 [xTeVe] Channel Name:          GR: VIP Nova Cinema 4
-2020/05/28 04:09:48 [xTeVe] Client User-Agent:     Lavf/58.27.104
-2020/05/28 04:09:49 [xTeVe] Streaming Status:      Playlist: M3U (PM) - Tuner: 1 / 1
-2020/05/28 04:09:49 [xTeVe] Streaming Type:        [TS]
-2020/05/28 04:09:49 [xTeVe] Streaming URL:         http://ip.king-cobra.eu:8080/glzaxNz7WC/AAAnXP6Khv/211239
-2020/05/28 04:09:49 [xTeVe] Content Type:          text/html; charset=UTF-8
-2020/05/28 04:09:49 [xTeVe] Streaming Status:      HTTP Response Status [403] Forbidden
-2020/05/28 04:09:49 [xTeVe] Error with this URL:   http://ip.king-cobra.eu:8080/glzaxNz7WC/AAAnXP6Khv/211239
-2020/05/28 04:09:49 [xTeVe] [ERROR] Forbidden (This error message comes from the provider) - EC: 4004
