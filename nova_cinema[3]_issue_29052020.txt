@@ -1,0 +1,13 @@
+2020/05/29 00:05:00 [xTeVe] Channel Name:          GR: VIP Nova Cinema 3
+2020/05/29 00:05:00 [xTeVe] Client User-Agent:     Lavf/58.27.104
+2020/05/29 00:05:01 [xTeVe] Streaming Status:      Playlist: M3U (PM) - Tuner: 1 / 1
+2020/05/29 00:05:01 [xTeVe] Streaming Type:        [TS]
+2020/05/29 00:05:01 [xTeVe] Streaming URL:         http://ip.king-cobra.eu:8080/glzaxNz7WC/AAAnXP6Khv/211238
+2020/05/29 00:05:01 [xTeVe] Streaming Status:      HTTP Response Status [200] OK
+2020/05/29 00:05:01 [xTeVe] Content Type:          video/mp2t
+2020/05/29 01:37:21 [xTeVe] Content Type:          text/html; charset=UTF-8
+2020/05/29 01:37:21 [xTeVe] Streaming Status:      HTTP Response Status [403] Forbidden
+2020/05/29 01:37:21 [xTeVe] Error with this URL:   http://2.58.193.198:8080/glzaxNz7WC/AAAnXP6Khv/211238?token=HkQLUxZRRl5BUgUMVFcPUAoKBAZWUQJbUQsLUAsFAVQDAgBQBApWAlMTHhcQRUtXWV9oWlcVWQtSCAtQC08UERYDEW0MXUZeQQQBA1UADhAUEENaXlJBA1IMAFMEUwVRVVFPEBVQAEZZEwMHUQUJEBQQUktHUhFXAlVmB1YVXwcARFlcEFUISEFeXGoHVFRTVlYVCREHQRVBUEoTEVlYEQkKTxAHUBAWAkVXF1kTCwMOCxUfEVQMTA1NSxoRWRQqKURPEABBEAENQltaDRMDEExBFR8RXhBmEVxKF0EGVwkAFEEIRwlGSEFcU008UlZcVldUR1pYDUpBAxtSEU8UCQoICkYKSzsUClUQD0EDDAYOBRVO
+2020/05/29 01:37:21 [xTeVe] [ERROR] Forbidden (This error message comes from the provider) - EC: 4004
+2020/05/29 01:37:21 [xTeVe] Streaming Status:      Playlist: M3U (PM) - Tuner: 0 / 1
+2020/05/29 01:37:22 [xTeVe] [ERROR] Forbidden () - EC: 0
