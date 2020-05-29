@@ -1,0 +1,13 @@
+2020/05/29 07:33:55 [xTeVe] Channel Name:          GR: VIP Nova Cinema 3
+2020/05/29 07:33:55 [xTeVe] Client User-Agent:     Lavf/58.27.104
+2020/05/29 07:33:55 [xTeVe] Streaming Status:      Playlist: M3U (PM) - Tuner: 1 / 1
+2020/05/29 07:33:55 [xTeVe] Streaming Type:        [TS]
+2020/05/29 07:33:55 [xTeVe] Streaming URL:         http://ip.king-cobra.eu:8080/glzaxNz7WC/AAAnXP6Khv/211238
+2020/05/29 07:33:56 [xTeVe] Streaming Status:      HTTP Response Status [200] OK
+2020/05/29 07:33:56 [xTeVe] Content Type:          video/mp2t
+2020/05/29 07:38:27 [xTeVe] Content Type:          text/html; charset=UTF-8
+2020/05/29 07:38:27 [xTeVe] Streaming Status:      HTTP Response Status [500] Internal Server Error
+2020/05/29 07:38:27 [xTeVe] Error with this URL:   http://2.58.193.198:8080/glzaxNz7WC/AAAnXP6Khv/211238?token=HkQLUxZRRl5BBwUDWwFbVFwKBFAEAwJbBQpbUwtRBFxXUFtUVg5dAQATHhcQRUtXWV9oWlcVWQtSCAtQC08UERYDEW0MXUZeQQQBA1UADhAUEENaXlJBA1IMAFMEUAZQUVdPEBVQAEZZEwABVgUIEBQQUktHUhFXAlVmB1YVXwcARFlcEFUISEFeXGoHVFRTVlYVCREHQRVBUEoTEVlYEQkKTxAHUBAWAkVXF1kTCwAABxUfEVQMTA1NSxoRWRQqKURPEABBEAENQltaDRMDEExBFR8RXhBmEVxKF0EGVwkAFEEIRwlGSEFcU008UlZcVldUR1pYDUpBAxtSEU8UCQoICkYKSzsUClUQD0ECDQsLEEo=
+2020/05/29 07:38:27 [xTeVe] [ERROR] Internal Server Error (This error message comes from the provider) - EC: 4004
+2020/05/29 07:38:27 [xTeVe] Streaming Status:      Playlist: M3U (PM) - Tuner: 0 / 1
+2020/05/29 07:38:27 [xTeVe] [ERROR] Internal Server Error () - EC: 0
